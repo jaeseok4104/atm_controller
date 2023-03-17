@@ -43,10 +43,11 @@ make -j`(nproc)` && \
 make install && \
 ldconfig
 ```
-### build test
+### Build test
 
 ```
-cd your/git/repository
+git clone https://github.com/jaeseok4104/atm_controller.git
+cd atm_controller
 
 mkdir build
 cd build
