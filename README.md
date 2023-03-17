@@ -60,3 +60,5 @@ cd your/git/repository
 cd build
 ./atm_controller_atm_interface_test
 ```
+### Result
+![image](https://user-images.githubusercontent.com/51950819/225965993-a0eba25b-0b91-4da2-824c-706a5db70c84.png)
